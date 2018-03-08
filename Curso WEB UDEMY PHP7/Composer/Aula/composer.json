@@ -1,0 +1,16 @@
+{
+	"nome": "kainan/composer",
+	"description": "Aula de PHP 7",
+	"type": "project",
+	"authors": [
+		{
+			"nome": "Kainan Pereira",
+			"email": "Kainan.pr@hotmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"monolog/monolog": "1.0.*"
+	}
+
+}
